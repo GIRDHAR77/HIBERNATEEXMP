@@ -1,2 +1,0 @@
-# HIBERNATEEXMP
-java hibernate
